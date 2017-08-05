@@ -1,0 +1,22 @@
+{
+  "name": "angularcoursera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snow9880/angularCoursera.git"
+  },
+  "author": "michelle johnston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snow9880/angularCoursera/issues"
+  },
+  "homepage": "https://github.com/snow9880/angularCoursera#readme",
+  "dependencies": {
+    "angular": "^1.6.5"
+  }
+}
