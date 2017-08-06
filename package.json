@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/snow9880/angularCoursera#readme",
   "dependencies": {
-    "angular": "^1.6.5"
+    "angular": "^1.6.5",
+    "bootstrap": "^3.3.7"
   }
 }
